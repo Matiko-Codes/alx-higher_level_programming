@@ -1,11 +1,12 @@
 #!/usr/bin/python3
-"""Integers addition"""
+"""Module for Integers addition"""
 
 
 def add_integer(a, b=98):
-    """Adds two numbers
+    """A function that Adds two numbers
     Args:
         a - first number input
+
         b - second number input
     """
     if type(a) not in [int, float]:
