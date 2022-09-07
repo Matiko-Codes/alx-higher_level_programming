@@ -12,9 +12,11 @@
 
 [2. Read user](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/2-create_read_user.sql)
 * Write a script that creates the database hbtn_0d_2 and the user user_0d_2.
-3. Always a name
+
+[3. Always a name](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/3-force_name.sql)
 * Write a script that creates the table force_name on your MySQL server.
-4. ID can't be null
+
+[4. ID can't be null](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/4-never_empty.sql)
 * Write a script that creates the table id_not_null on your MySQL server.
 5. Unique ID
 * Write a script that creates the table unique_id on your MySQL server.
