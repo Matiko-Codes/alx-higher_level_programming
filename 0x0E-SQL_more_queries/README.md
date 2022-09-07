@@ -1,9 +1,8 @@
 # 0x0E. SQL - More queries
 ---
 ## Resources:
-[MySQL Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.pdf)
-
-[The Seven Types of SQL Joins](https://tableplus.com/blog/2018/09/a-beginners-guide-to-seven-types-of-sql-joins.html)
+### [MySQL Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.pdf)
+### [The Seven Types of SQL Joins](https://tableplus.com/blog/2018/09/a-beginners-guide-to-seven-types-of-sql-joins.html)
 ---
 0. My privileges!
 * Write a script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server (in localhost).
