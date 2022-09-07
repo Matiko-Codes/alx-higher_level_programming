@@ -9,7 +9,8 @@
 
 [1. Root user](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/1-create_user.sql)
 * Write a script that creates the MySQL server user user_0d_1.
-2. Read user
+
+[2. Read user](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/2-create_read_user.sql)
 * Write a script that creates the database hbtn_0d_2 and the user user_0d_2.
 3. Always a name
 * Write a script that creates the table force_name on your MySQL server.
