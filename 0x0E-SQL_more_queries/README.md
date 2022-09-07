@@ -21,8 +21,10 @@
 
 [5. Unique ID](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/5-unique_id.sql)
 * Write a script that creates the table unique_id on your MySQL server.
-6. States table
+
+[6. States table](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/6-states.sql)
 * Write a script that creates the database hbtn_0d_usa and the table states (in the database hbtn_0d_usa) on your MySQL server.
+
 7. Cities table
 * Write a script that creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) on your MySQL server.
 8. Cities of California
