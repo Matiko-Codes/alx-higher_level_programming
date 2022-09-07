@@ -25,8 +25,9 @@
 [6. States table](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/6-states.sql)
 * Write a script that creates the database hbtn_0d_usa and the table states (in the database hbtn_0d_usa) on your MySQL server.
 
-7. Cities table
+[7. Cities table](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/7-cities.sql)
 * Write a script that creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) on your MySQL server.
+
 8. Cities of California
 * Write a script that lists all the cities of California that can be found in the database hbtn_0d_usa.
 9. Cities by States
