@@ -4,7 +4,7 @@
 ### [MySQL Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.pdf)
 ### [The Seven Types of SQL Joins](https://tableplus.com/blog/2018/09/a-beginners-guide-to-seven-types-of-sql-joins.html)
 ---
-0. My privileges!
+[0. My privileges!](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/0-privileges.sql)
 * Write a script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server (in localhost).
 1. Root user
 * Write a script that creates the MySQL server user user_0d_1.
