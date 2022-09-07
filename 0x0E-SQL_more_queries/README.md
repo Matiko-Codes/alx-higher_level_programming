@@ -28,21 +28,29 @@
 [7. Cities table](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/7-cities.sql)
 * Write a script that creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) on your MySQL server.
 
-8. Cities of California
+[8. Cities of California](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/8-cities_of_california_subquery.sql)
 * Write a script that lists all the cities of California that can be found in the database hbtn_0d_usa.
-9. Cities by States
+
+[9. Cities by States](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/9-cities_by_state_join.sql)
 * Write a script that lists all cities contained in the database hbtn_0d_usa.
-10. Genre ID by show
+
+[10. Genre ID by show](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/10-genre_id_by_show.sql)
 * Import the database dump from hbtn_0d_tvshows to your MySQL server: download
-11. Genre ID for all shows
+
+[11. Genre ID for all shows](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/11-genre_id_all_shows.sql)
 * Import the database dump of hbtn_0d_tvshows to your MySQL server: download (same as 10-genre_id_by_show.sql)
-12. No genre
+
+[12. No genre](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/12-no_genre.sql)
 * Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 11-genre_id_all_shows.sql)
-13. Number of shows by genre
+
+[13. Number of shows by genre](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/13-count_shows_by_genre.sql)
 * Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 12-no_genre.sql)
-14. My genres
+
+[14. My genres](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/14-my_genres.sql)
 * Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 13-count_shows_by_genre.sql)
-15. Only Comedy
+
+[15. Only Comedy](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/15-comedy_only.sql)
 * Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 14-my_genres.sql)
-16. List shows and genres
+
+[16. List shows and genres](https://github.com/Matiko-Codes/alx-higher_level_programming/blob/master/0x0E-SQL_more_queries/16-shows_by_genre.sql)
 * Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 15-comedy_only.sql)
